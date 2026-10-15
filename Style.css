@@ -10,4 +10,4 @@ form{
     gap:12px;
   }
 input{padding: 10px;border:1px solid#999;}
-button{padding: 10px;
+button{padding: 10px; background:#111 color:white;border: none;}
