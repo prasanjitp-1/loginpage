@@ -1,4 +1,13 @@
 *{margin:0;padding:0;box-sizing:border-box;font: sans-serif}
 nav{background: #111;padding:15px;}
 nav ul{list-style:none;display:flex; gap:25px;}
-nav ul li a {color: white;
+nav ul li a {color: white;text-decoration: none;text-transform:cadetblue;}
+form{
+    width: 300px;
+    margin:50px 15px;
+    display: flex;
+    flex-direction: column;
+    gap:12px;
+  }
+input{padding: 10px;border:1px solid#999;}
+button{padding: 10px;
